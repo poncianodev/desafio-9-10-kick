@@ -1,6 +1,5 @@
 # Desafio Kick - Business Growth Group
 
-<hr>
 
 Um template de site criado no figma para o desafios das paradas 9 e 10 de Kick.
 
@@ -9,9 +8,8 @@ Neste projeto fictício nós criamos a Business Growth Group, uma empresa focada
 Foi muito importante esta prática para desenvolver nossas habilidades em UX e UI, além de ganhar mais confiança e conhecimento na
 ferramente Figma.
 
-## Paleta de Cores
 
-<hr>
+## Paleta de Cores
 
 Nossa paleta de cores foi pensada para causar um tom de seriedade e sofisticação.
 
@@ -21,7 +19,6 @@ Nossa paleta de cores foi pensada para causar um tom de seriedade e sofisticaç�
 
 ## Assets
 
-<hr>
 
 Lista de ícones e fontes que utilizamos no projeto, além do logotipo da empresa.
 
@@ -31,7 +28,7 @@ Lista de ícones e fontes que utilizamos no projeto, além do logotipo da empres
 
 ## Telas
 
-<hr>
+
 
 #### Home Page
 
@@ -53,7 +50,7 @@ Lista de ícones e fontes que utilizamos no projeto, além do logotipo da empres
 
 ![Paleta de Cores](https://github.com/poncianodev/desafio-9-10-kick/blob/main/assets/CONTATO.png)
 
-<hr>
+
 <br>
 
 Link do projeto no Figma: <a href="https://www.figma.com/file/uPqklErecNKAOcuwSbVZ0X/Untitled?type=design&node-id=0%3A1&mode=design&t=Zgl6upQWAjmtrxrg-1">Business Growth Group</a>
